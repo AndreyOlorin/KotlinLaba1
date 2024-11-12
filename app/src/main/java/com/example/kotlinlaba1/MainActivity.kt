@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
                 "4" -> textView.text = "Осень"
                 else -> {
                     textView.text = "Ошибка"
-                } //1
+                } //2
             }
         }
     }
